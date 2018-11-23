@@ -1,11 +1,11 @@
-#git笔记
+# git笔记
 
 Git的官方网站：http://git-scm.com
 廖雪峰的官方网站：https://www.liaoxuefeng.com
 Git小抄：Git Cheat Sheet.pdf
 
 
-###建立git
+### 建立git
 合适的文件夹创建空目录
 
 ```
@@ -18,7 +18,7 @@ $ pwd//显示当前目录
 $ git init
 Initialized empty Git repository in somewhere
 ```
-###添加文件到仓库
+### 添加文件到仓库
 ```
 //把文件添加到仓库
 $ git add readme.txt
@@ -31,7 +31,7 @@ $ git status
 //View the changes or difference
 $ git diff
 ```
-###版本回退
+### 版本回退
 `HEAD`指向的版本就是当前版本
 Git允许我们在版本的历史之间穿梭，使用命令
 ```
@@ -54,9 +54,9 @@ git remote add origin git@server-name:path/repo-name.git
 $ git push origin master
 ```
 
-###从远程库克隆
+### 从远程库克隆
 
-###创建与合并分支
+### 创建与合并分支
 Git鼓励大量使用分支：
 
 查看分支：git branch
