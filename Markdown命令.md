@@ -1,15 +1,10 @@
-# Markdown命令
-
-
-
->日期：2018-11-23
-
-
 
 <!-- GFM-TOC -->
- 
+ * [Markdown简介](# Markdown简介)
+<!-- GFM-TOC -->
 
-## Markdown简介
+
+# Markdown简介
 
 Markdown是一种纯文本格式的标记语言。通过简单的标记语法，它可以使普通文本内容具有一定的格式。
 
