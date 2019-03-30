@@ -90,7 +90,7 @@ seekp ( off_type offset, seekdir direction )；
 
 
 
-## bitset
+## bitset使用教程
 
 `bitset`所在头文件`<bitset>`
 
@@ -123,4 +123,20 @@ seekp ( off_type offset, seekdir direction )；
 | b.to_string() | 将二进制转换为字符串输出                       |
 | ~b            | 按位取反，效果等效为bs.flip()                  |
 | os << b       | 将二进制位输出到os流，小值在右，大值在左       |
+
+
+
+
+
+## NTL使用教程
+
+**（1）使用大整数类 ZZ ** 
+
+
+
+
+
+
+
+
 
